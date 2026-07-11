@@ -1,0 +1,6 @@
+Category,Result
+Winning Model,XGB_Tweedie
+RMSE,14249.12
+MAE,2174.84
+Baseline Comparison,0.02% improvement vs Poisson-Gamma
+Deployment Strategy,Champion-Challenger Framework
