@@ -1,4 +1,4 @@
-# insurance-pricing-platform-GLM-VS-Xgboost-
+# Insurance-pricing-platform-GLM-VS-Xgboost-
 End-to-end motor insurance pricing platform using actuarial models and machine learning
 # Insurance Pricing Platform
 
